@@ -1,4 +1,11 @@
-- Stack: HTML, SASS, BEM, JS.
-- Fully responsive layout was made by using Flexbox and CSS Grid (mobiles, tablets, laptops, high screens).
-- Design of the landing page you could find [here](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35).
-- Click the link to see [DEMO](https://arturermolenko.github.io/Dia-landing/)
+# Dia landing page
+- [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35).
+
+-  [DEMO LINK](https://arturermolenko.github.io/Dia-landing/)
+
+
+
+# Implementeated technologies 
+- HTML5, SCSS, Flex-box, Grid, JavaScript,SASS, BEM,
+- BEM, Gulp
+- Responsive design(mobiles, tablets, laptops, high screens).
