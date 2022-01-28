@@ -5,7 +5,7 @@
 
 
 
-# Implementeated technologies 
-- HTML5, SCSS, Flex-box, Grid, JavaScript,SASS, BEM,
+# Stack
+- HTML5, SCSS, Flex-box, Grid, JavaScript,SASS
 - BEM, Gulp
 - Responsive design(mobiles, tablets, laptops, high screens).
